@@ -1,8 +1,25 @@
-# Snake Game Project
+# Python Snake Game
 
-In this project, I created the classic Snake Game using Python. This project is a part of the Python 100 course by Angela Hu.
+This is a simple implementation of the classic Snake Game in Python.
 
-## Project Overview
+## Overview
 
-The Snake Game is a simple yet addictive game where the player controls a snake that moves around the screen. The goal is to eat food that appears on the screen, which causes the snake's length to increase. However, the game becomes more challenging as the snake grows longer and must avoid colliding with its own body or the walls of the screen.
+The Snake Game is a popular retro game where the player controls a snake that moves around the screen, consuming food and growing longer with each piece of food eaten. The game ends if the snake collides with the walls or with its own body.
 
+## Demo Video
+
+Check out the gameplay video: [Snake Game Demo Video](https://example.com/snake-game-demo)
+
+[![Snake Game Demo](https://example.com/demo-thumbnail.png)](https://example.com/snake-game-demo)
+
+## Gameplay
+
+- Use the arrow keys to control the snake's direction.
+- Eat the food (represented by blue balls) to grow the snake's length.
+- The game ends if the snake collides with the walls or with itself.
+
+## Dependencies
+
+No external libraries are required for this game.
+
+*This project was created as part of the Python100 course. It serves as a simple implementation of the Snake Game for educational purposes.*
