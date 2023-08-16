@@ -1,4 +1,3 @@
-```markdown
 # Pong Game
 
 A simple implementation of the classic Pong game using Python and the Turtle library.
@@ -26,7 +25,4 @@ Watch a video demonstration of the Pong Game:
 
 ## Note
 
-This project is part of the Python100 course, intended to demonstrate fundamental programming and game development concepts
-
----
-```
+This project is part of the Python100 course, intended to demonstrate fundamental programming and game development concepts.
