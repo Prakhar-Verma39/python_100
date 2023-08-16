@@ -22,4 +22,4 @@ Check out the gameplay video: [Snake Game Demo Video](https://example.com/snake-
 
 No external libraries are required for this game.
 
-*This project was created as part of the Python100 course. It serves as a simple implementation of the Snake Game for educational purposes.*
+*This project was created as part of the Python100 course.*
