@@ -21,7 +21,7 @@ The Pong Game is a two-player arcade game where players control paddles and try 
 
 Watch a video demonstration of the Pong Game:
 
-[![Pong Game Demo](https://example.com/video_thumbnail.png)](https://youtu.be/_eNzeRp0IAs)
+![The Pong Game Demo](https://github.com/Prakhar-Verma39/python_100/assets/103757447/8ed359ea-4ac2-4da2-82d2-42ee8d986e19)(https://youtu.be/_eNzeRp0IAs)
 
 ## Note
 
