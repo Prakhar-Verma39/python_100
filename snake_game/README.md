@@ -9,6 +9,7 @@ The Snake Game is a popular retro game where the player controls a snake that mo
 ## Demo Video
 
 Check out the gameplay video: 
+
 https://github.com/Prakhar-Verma39/python_100/assets/103757447/9942bb64-372e-4d53-a039-640166376315
 
 ## Gameplay
