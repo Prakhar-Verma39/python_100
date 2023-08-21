@@ -1,13 +1,5 @@
 # Indian States Game 
 
-## Table of Contents
-
-- [Project Description](#project-description)
-- [Features](#features)
-- [Demo Video](#demo-video)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-
 ## Project Description
 
 The "Indian States Game" is designed to help practice your knowledge of Indian states. In this game, you'll learn about the Indian states by guessing their names.
