@@ -10,10 +10,8 @@ The Pomodoro Project is a simple Pomodoro timer built with Python. The Pomodoro 
 - Start and pause the timer.
 - Mark when a session ends.
 
-## Video Walkthrough
+## Video 
 
-For a detailed walkthrough of this project, please watch the following video:
-
-[Watch the Pomodoro Project Video](https://www.example.com/python100-pomodoro-video)
+[Watch the Pomodoro Project Video](https://github.com/Prakhar-Verma39/python_100/assets/103757447/4f8db515-35a4-48a8-9ed1-418f5ea68d5f)
 
 *This project is part of the Python100 course. Happy coding!*
