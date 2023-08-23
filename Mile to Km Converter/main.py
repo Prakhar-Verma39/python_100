@@ -20,7 +20,7 @@ label_2.grid(column=3, row=1)
 
 def calculate():
     miles = float(in_miles.get())
-    label_3.config(text =f"{round((int(miles)*1.60934), 2)}")
+    label_3.config(text=f"{round((int(miles)*1.60934), 2)}")
 
 
 # label no. 3
@@ -32,7 +32,7 @@ label_4 = Label(text="Km", font=('Arial', 16))
 label_4.grid(column=3, row=2)
 
 # button
-bt = Button(text="Calculate",font=('Arial', 16), command=calculate)
+bt = Button(text="Calculate", font=('Arial', 16), command=calculate)
 bt.grid(column=2, row=3)
 
 # to keep the window open
