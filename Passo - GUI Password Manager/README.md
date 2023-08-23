@@ -18,7 +18,7 @@ An easy GUI password manager, you can generate strong passwords, or store your w
 
 ## Video
 
-![Screenshot (139)](https://github.com/Prakhar-Verma39/python_100/assets/103757447/ffa958ad-f4e5-4a1b-8eb3-15a4d139bdf0)
 - [Passo - GUI Password Manager Demo Video](https://github.com/Prakhar-Verma39/python_100/assets/103757447/52e5a04d-c063-49fb-a5a9-2d44bb0a20aa)
+<img src="https://github.com/Prakhar-Verma39/python_100/assets/103757447/ffa958ad-f4e5-4a1b-8eb3-15a4d139bdf0" width=300px height=300px>
 
 *This project is made as a part Python-100 course.*
