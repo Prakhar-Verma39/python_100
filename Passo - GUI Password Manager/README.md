@@ -6,7 +6,8 @@ An easy GUI password manager, you can generate strong passwords, or store your w
 
 - User-friendly graphical interface.
 - Secure password storage.
-- Ability to add and retrieve passwords.
+- Search previously stored passwords via the website name.
+- Ability to add, retrieve, or update passwords.
 - Password generator to create strong passwords.
 - Import and export password data.
 
