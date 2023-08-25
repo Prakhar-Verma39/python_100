@@ -1,4 +1,4 @@
-# Python100 Course: Flash Card Project
+# Flash Card Project
 
 In this project, a simple flash card application is created to help users learn and revise concepts or facts. This `README.md` file provides an overview of the project and instructions on how to get started.
 
@@ -11,17 +11,18 @@ The Flash Card Project is designed to help reinforce knowledge by creating digit
 1. Clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/python100-flash-cards.git
-   cd python100-flash-cards
+   git clone https://github.com/Prakhar-Verma39/python_100/edit/master/Flash%20Card.git
+   'cd .\Flash Card\
    ```
 
 2. Install required dependencies or libraries.
 
 3. Use the application by running `main.py` file.
 
-## Video Demostration
+## Screenshots
 
-[![Watch Video Tutorial](https://example.com/video_thumbnail.png)](https://www.example.com/python100-flash-cards-tutorial)
+<img src="https://github.com/Prakhar-Verma39/python_100/assets/103757447/6f61879a-db08-4e0c-8251-4c17e490c13c" width=50%>
+<img src="https://github.com/Prakhar-Verma39/python_100/assets/103757447/a39db66a-2397-4cf2-a0f6-68b343c50083" width=50%>
 
 ## License
 
