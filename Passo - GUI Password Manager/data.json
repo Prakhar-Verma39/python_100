@@ -2,5 +2,13 @@
     "a": {
         "email": "dummy@gmail.com",
         "password": "h#37*CjioGgT4&#v"
+    },
+    "facebook": {
+        "email": "code@gmail.com",
+        "password": "ovRl81ieK2a+*n"
+    },
+    "amazon": {
+        "email": "catch@gmail.com",
+        "password": "y!sXc#qT*7A6hH(n"
     }
 }
