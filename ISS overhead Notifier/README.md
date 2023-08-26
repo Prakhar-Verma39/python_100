@@ -1,4 +1,4 @@
-# Python100: ISS Overhead Notifier
+# ISS Overhead Notifier
 
 This project allows you to track the International Space Station (ISS) and receive notifications when it passes overhead.
 
